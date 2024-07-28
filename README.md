@@ -30,7 +30,7 @@
 <h2 align="left">Currently employed as a Full Stack Web Developer at Rashmi Metaliks Limited.</h2>
 
 ###
-<img align="right" alt="coding" width="200" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhpaWlva25tcWhuMm53ZThrOGtsMHBmZDE1cnFkOW9hanBzanI2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img align="right" alt="coding" width="150" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhpaWlva25tcWhuMm53ZThrOGtsMHBmZDE1cnFkOW9hanBzanI2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left">⁃ Led intranet UI/UX development, leveraging HTML, CSS, JavaScript (jQuery, AJAX) to improve user experience and implement interactive features.<br><br>⁃ Handled intranet backend development using PHP and MySQL, including database design, maintenance, and SQL query crafting.</p>
 
 
